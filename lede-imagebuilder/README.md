@@ -2,7 +2,7 @@
 ### Build
 
 1. 配置docker环境
-2. `docker build --no-cache -t 12f23eddde/pku-auto-elective {文件夹路径}`
+2. `docker build --no-cache -t lede/imagebuilder {文件夹路径}`
 3. 删除临时image  `docker image prune`
 
 ### Run
